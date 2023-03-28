@@ -63,7 +63,7 @@ function calculate(): void {
             break;
     }
 
-    firstNumber = '';
+    firstNumber = display.innerText;
     secondNumber = '';
     method = '';
 }
